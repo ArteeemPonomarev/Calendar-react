@@ -5,7 +5,7 @@ import {useHistory} from 'react-router-dom';
 
 export const Navbar: FC = () => {
     const router = useHistory();
-    console.log(router)
+    console.log( router )
 
     const auth = true;
 
