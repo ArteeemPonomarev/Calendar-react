@@ -1,7 +1,6 @@
 import React, {FC} from 'react';
 import {Layout, Menu, Row} from "antd";
 import {useHistory} from 'react-router-dom';
-import {RouteNames} from '../roter';
 
 
 export const Navbar: FC = () => {
